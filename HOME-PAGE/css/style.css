@@ -363,14 +363,14 @@ svg {
 }
 
 .social-media i {
-	height: 15px;
-	width: 15px;
-	margin: 20px 5px;
-	padding: 10px;
-	padding-right: 25px;
-	padding-bottom: 27px;
+	height: 15.2px;
+	width: 15.2px;
+	margin: 20.2px 5.2px;
+	padding: 10.2px;
+	padding-right: 25.2px;
+	padding-bottom: 27.2px;
 	color: #fff;
-	border-radius: 50%;
+	border-radius: 52%;
 	border: 1px solid grey;
 	transition: 0.3s;
 }
